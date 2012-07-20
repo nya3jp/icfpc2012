@@ -1,0 +1,12 @@
+*~
+\#*
+.\#*
+*.o
+*.pyc
+*.orig
+*.rej
+*.swp
+.DS_Store
+icfp-96697646.tgz
+maps/*.txt
+submission/output.tmp
